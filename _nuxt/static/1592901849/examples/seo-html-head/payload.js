@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/examples/seo-html-head", {data:[{},{path:"\u002Fvi\u002Fexamples\u002Fseo-html-head",section:"examples",page:{attrs:{title:"SEO HTML Head",description:"SEO HTML Head example with Nuxt.js",github:"meta-info",documentation:"\u002Fguide\u002Fviews#html-head"},body:""},contributors:[]}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/examples/vuex-store", {data:[{},{path:"\u002Fvi\u002Fexamples\u002Fvuex-store",section:"examples",page:{attrs:{title:"Vuex Store",description:"Vuex Store example with Nuxt.js",github:"vuex-store",livedemo:"https:\u002F\u002Fvuex-store.nuxtjs.org",documentation:"\u002Fguide\u002Fvuex-store"},body:""},contributors:[]}],fetch:[],mutations:[]});

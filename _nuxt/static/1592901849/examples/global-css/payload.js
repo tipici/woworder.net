@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/examples/global-css", {data:[{},{path:"\u002Fvi\u002Fexamples\u002Fglobal-css",section:"examples",page:{attrs:{title:"Global CSS",description:"Global CSS example with Nuxt.js",github:"global-css",livedemo:"https:\u002F\u002Fglobal-css.nuxtjs.org",documentation:"\u002Fapi\u002Fconfiguration-css"},body:""},contributors:[]}],fetch:[],mutations:[]});

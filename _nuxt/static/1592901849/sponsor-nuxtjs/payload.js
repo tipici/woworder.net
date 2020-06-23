@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sponsor-nuxtjs", {data:[{}],fetch:[],mutations:[]});
