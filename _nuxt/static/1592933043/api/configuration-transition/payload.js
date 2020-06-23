@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/api/configuration-transition", {data:[],fetch:[],mutations:[]});

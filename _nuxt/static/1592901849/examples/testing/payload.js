@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/testing", {data:[{},{path:"\u002Fvi\u002Fexamples\u002Ftesting",section:"examples",page:{attrs:{title:"Testing",description:"Testing example with Nuxt.js",github:"with-ava",documentation:"\u002Fguide\u002Fdevelopment-tools#end-to-end-testing"},body:""},contributors:[]}],fetch:[],mutations:[]});

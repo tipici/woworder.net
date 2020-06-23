@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/api/pages-watchquery", {data:[],fetch:[],mutations:[]});

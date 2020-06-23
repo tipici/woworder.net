@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/api/pages-head", {data:[],fetch:[],mutations:[]});
