@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/api/internals", {data:[],fetch:[],mutations:[]});

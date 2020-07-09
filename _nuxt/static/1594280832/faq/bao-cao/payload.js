@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/faq/bao-cao", {data:[{},{statusCode:500,message:"Lỗi "}],fetch:[],mutations:[]});

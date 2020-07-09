@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/api/internals-module-container", {data:[],fetch:[],mutations:[]});

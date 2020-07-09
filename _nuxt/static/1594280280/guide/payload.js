@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/guide", {data:[{},{statusCode:500,message:"Lỗi "}],fetch:[],mutations:[]});

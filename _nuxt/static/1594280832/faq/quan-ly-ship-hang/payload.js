@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/faq/quan-ly-ship-hang", {data:[{},{statusCode:500,message:"Lỗi "}],fetch:[],mutations:[]});

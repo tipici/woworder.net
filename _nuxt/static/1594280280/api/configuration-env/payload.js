@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/api/configuration-env", {data:[],fetch:[],mutations:[]});

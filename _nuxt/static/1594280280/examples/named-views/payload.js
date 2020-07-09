@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/examples/named-views", {data:[],fetch:[],mutations:[]});

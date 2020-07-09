@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/faq/quan-ly-vi-thanh-toan", {data:[{},{statusCode:500,message:"Lỗi "}],fetch:[],mutations:[]});
