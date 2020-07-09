@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/faq/wowmes", (function(a){return {data:[{},{path:"\u002Fvi\u002Ffaq\u002Fwowmes",section:"faq",page:{attrs:{title:a,description:a},body:"\u003Cp\u003ETrang hướng dẫn chrome extension WowMes\u003C\u002Fp\u003E\n"},contributors:[]}],fetch:[],mutations:[]}}("Hướng dẫn chrome extension WowMes?")));

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/api/components-nuxt-link", {data:[],fetch:[],mutations:[]});
