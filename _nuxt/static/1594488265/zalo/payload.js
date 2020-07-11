@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zalo", {data:[{}],fetch:[],mutations:[]});

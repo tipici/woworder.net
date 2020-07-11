@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/faq/quan-ly-chi-phi", {data:[{},{statusCode:500,message:"Lỗi "}],fetch:[],mutations:[]});

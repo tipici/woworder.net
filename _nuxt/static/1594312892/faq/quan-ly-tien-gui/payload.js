@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/faq/quan-ly-tien-gui", {data:[{},{statusCode:500,message:"Lỗi "}],fetch:[],mutations:[]});
