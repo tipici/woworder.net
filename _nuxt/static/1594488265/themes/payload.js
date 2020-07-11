@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/themes", {data:[{}],fetch:[],mutations:[]});
